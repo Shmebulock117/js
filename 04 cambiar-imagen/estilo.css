@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+  }
+  body{
+  background: rgb(110,23,169);
+  background: linear-gradient(30deg, rgba(110,23,169,1) 12%, rgba(255,41,41,1) 55%, rgba(219,229,34,1) 95%);
+  }
+  button{
+    height: 70px;
+    width: 70px;
+    color: greenyellow;
+    background: black;
+  }
+  img1{
+    width: 500px;
+    height: 500px;
+  }

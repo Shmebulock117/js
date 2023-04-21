@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+  }
+  body{
+    background: rgb(216,73,136);
+  background: radial-gradient(circle, rgba(216,73,136,1) 0%, rgba(11,0,124,1) 100%);
+  }
+  button{
+    height: 30px;
+    width: 30px;
+    color: greenyellow;
+    background: black;
+  }
